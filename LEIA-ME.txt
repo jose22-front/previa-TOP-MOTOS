@@ -1,0 +1,11 @@
+TOP MOTOS 021 - PACOTE COMPLETO
+
+1. Extraia o ZIP.
+2. Envie index.html, favicon.svg, .nojekyll e as pastas assets e images para a RAIZ do repositorio. Mantenha os nomes e pastas. Nao envie somente o ZIP.
+3. GitHub: Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. Aguarde a publicacao terminar.
+
+Para visualizar localmente, abra index.html depois de extrair todos os arquivos.
+
+Inclui HTML, CSS, JavaScript e imagens locais. Nao precisa instalar nem compilar. Fontes online possuem alternativas locais.
+WhatsApp real, estoque e endereco ainda precisam ser cadastrados.
